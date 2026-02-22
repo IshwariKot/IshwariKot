@@ -1,4 +1,24 @@
-## Hi there 👋
+## Ishwari Kotecha
+
+Mathematics & Artificial Intelligence graduate (University of Leicester) with a strong interest in nonlinear optimisation, mathematical modelling, and decision science for healthcare and environmental sustainability. I am particularly interested in building optimisation models for critical systems including energy allocation, healthcare resource planning, and climate risk modelling.
+
+
+Current Projects:
+- Climate Risk Prediction Model
+- Healthcare Readmission Risk Model
+- Renewable Energy Optimisation Model
+  
+
+Technical Skills:
+- Python (NumPy, Pandas, SciPy, scikit-learn)
+- Linear & Nonlinear Optimisation
+- Mathematical Modelling
+- Statistical Learning
+- Data Visualisation
+
+
+Location: London, UK
+Contact: ishwari.k@outlook.com
 
 <!--
 **IshwariKot/IshwariKot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
