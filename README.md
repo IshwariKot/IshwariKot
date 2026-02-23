@@ -1,6 +1,6 @@
 ## Ishwari Kotecha
 
-Mathematics & Artificial Intelligence graduate (University of Leicester) with a strong interest in nonlinear optimisation, mathematical modelling, and decision science for healthcare and environmental sustainability. I am particularly interested in building optimisation models for critical systems including energy allocation, healthcare resource planning, and climate risk modelling.
+Mathematics & Artificial Intelligence graduate with a strong interest in nonlinear optimisation, mathematical modelling, and decision science for healthcare and environmental sustainability. I am particularly interested in building optimisation models for critical systems including energy allocation, healthcare resource planning, and climate risk modelling.
 
 
 Current Projects:
